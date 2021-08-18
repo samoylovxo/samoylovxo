@@ -4,14 +4,18 @@
 - 💞️ I’m looking to collaborate with big company (Yandex, Mail.ru Group, Google, Avito, hh.ru etc.), where I will work with them for interesting projects
 
 - **⚙ My stack:**
-  - JS(ES6+)
-  - Babel
-  - Webpack
-  - Node.js
-  - React
-  - HTML
-  - SCSS
-  - Git
+  - JavaScript (ES5, ES6+);
+  - WebPack 5+;
+  - Figma/Photoshop/Adobe XD;
+  - Node.js;
+  - React (React-Router, props, +-TypeScript);
+  - Vue 2-3
+  - ESlint/Prettier;
+  - Jest;
+  - Git;
+  - Sass/Less;
+  - HTML + CSS;
+
 
 📫 How to reach me: 
 - Telegram => https://t.me/samoylovxo
