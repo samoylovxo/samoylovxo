@@ -3,26 +3,20 @@
 
 
 **⚙ My skills:**
-  - TypeScript;
-  - React;
-  - React Query;
-  - React Context;
-  - Redux;
-  - Vue + Vuex;
-  - Next.js;
-  - Nuxt.js;
-  - Storybook;
-  - Styled Components;
-  - JavaScript (ES5, ES6+);
-  - Webpack 5+;
-  - Figma;
-  - Node.js;
-  - Axios/fetch;
-  - Koa + Koa Router;
-  - Jest;
-  - Git;
-  - Sass;
-  - HTML + CSS;
+- TypeScript;
+- React;
+- React Query;
+- Redux;
+- Vue + Vuex;
+- Next.js;
+- Storybook;
+- CSS-in-JS (Styled Components / emotion);
+- JavaScript (ES5, ES6+);
+- Figma;
+- Node.js;
+- Koa + Koa Router;
+- Jest;
+- Git;
 
 
 📫 How to reach me: 
