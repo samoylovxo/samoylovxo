@@ -1,20 +1,19 @@
 # 👋 Hi, I’m Zakhar @samoylovxo #
-💎 I’m interested in frontend development and open to job offers
+💎 I’m Middle Frontent developer and open to job offers
 
 
 **⚙ My skills:**
-- TypeScript;
+﻿- TypeScript;
 - React;
+- Next;
 - React Query;
-- Redux;
-- Vue + Vuex;
-- Next.js;
+- Redux Toolkit;
+- Vue;
 - Storybook;
-- CSS-in-JS (Styled Components / emotion);
-- JavaScript (ES5, ES6+);
+- CSS-in-JS (styled-components / emotion);
+- JavaScript;
 - Figma;
 - Node.js;
-- Koa + Koa Router;
 - Jest;
 - Git;
 
